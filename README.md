@@ -1,5 +1,5 @@
-🤖 Multi-Modal Chatbot (Gemini + Stability AI)
-A powerful multi-modal chatbot built with **Streamlit**, integrating **Google Gemini** for image and text analysis, and **Stability AI** for text-to-image generation.
+ Multi-Modal Chatbot 
+A powerful multi-modal chatbot built with Streamlit, integrating Google Gemini for image and text analysis, and Stability AI for text-to-image generation.
 
 This app allows users to:
 -  Upload and analyze images using Gemini Vision
@@ -21,4 +21,7 @@ This app allows users to:
 - Requests
 - python-dotenv
 - google-generativeai
+
+  important step
+  -after running the code in vs code ,run this line in the terminal"streamlit run chatbot.py "
 
